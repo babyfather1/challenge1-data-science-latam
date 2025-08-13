@@ -9,6 +9,7 @@ tienda_1.csv
 tienda_2.csv
 tienda_3.csv
 tienda_4.csv
+
 📈 Análisis realizados
 Análisis de facturación
 Calcular la facturación total sumando el precio y el costo de envío.
