@@ -9,20 +9,6 @@ tienda_1.csv
 tienda_2.csv
 tienda_3.csv
 tienda_4.csv
-Cada archivo contiene las siguientes columnas:
-| Columna                | Descripción                                                          |
-| ---------------------- | -------------------------------------------------------------------- |
-| Producto               | Nombre del producto vendido                                          |
-| Categoría del Producto | Clasificación del producto (Electrónicos, Muebles, etc.)             |
-| Precio                 | Precio unitario del producto                                         |
-| Costo de envío         | Monto del envío                                                      |
-| Fecha de Compra        | Fecha en formato `dd/mm/yyyy`                                        |
-| Vendedor               | Nombre del vendedor                                                  |
-| Lugar de Compra        | Ciudad donde se realizó la compra                                    |
-| Calificación           | Puntuación del 1 al 5 otorgada por el cliente                        |
-| Método de pago         | Medio utilizado para pagar (Tarjeta de crédito, débito, Nequi, etc.) |
-| Cantidad de cuotas     | Número de pagos acordados                                            |
-| lat, lon               | Coordenadas geográficas de la ciudad                                 |
 📈 Análisis realizados
 Análisis de facturación
 Calcular la facturación total sumando el precio y el costo de envío.
