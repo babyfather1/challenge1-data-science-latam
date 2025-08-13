@@ -5,9 +5,13 @@ El dataset contiene información de productos, precios, costos de envío, ubicac
 
 📂 Datos utilizados
 Se utilizan cuatro archivos CSV
+
 tienda_1.csv
+
 tienda_2.csv
+
 tienda_3.csv
+
 tienda_4.csv
 
 📈 Análisis realizados
@@ -29,7 +33,7 @@ Calcular el promedio de calificación otorgado por los clientes.
 
 Productos más y menos vendidos
 
-Identificar los productos más demandados.
+.Identificar los productos más demandados.
 
 Determinar aquellos con menor rotación.
 
