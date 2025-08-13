@@ -12,15 +12,27 @@ tienda_4.csv
 
 📈 Análisis realizados
 Análisis de facturación
+
 Calcular la facturación total sumando el precio y el costo de envío.
+
 Identificar tendencias de ventas por fecha.
+
 Ventas por categoría
+
 Agrupar y sumar ventas por categoría de producto.
+
 Visualizar las categorías más rentables.
+
 Calificación promedio de la tienda
+
 Calcular el promedio de calificación otorgado por los clientes.
+
 Productos más y menos vendidos
+
 Identificar los productos más demandados.
+
 Determinar aquellos con menor rotación.
+
 Envío promedio por tienda
+
 Calcular el costo de envío promedio por ubicación.
